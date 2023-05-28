@@ -6,7 +6,7 @@
  
 </head>
 <body>
-  <h1>Yuri</h1>
+  <h1>Minha BIO </h1>
   <p>Olá! Meu nome é Yuri, tenho 26 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou buscando oportunidades de estágio na área de front-end.</p>
   <p>Tenho interesse em criar interfaces intuitivas e responsivas, utilizando tecnologias como HTML, CSS e JavaScript. Estou sempre em busca de aprimorar minhas habilidades e aprender novas ferramentas e frameworks.</p>
   <p>No momento, estou empenhado em expandir meu conhecimento em desenvolvimento web e contribuir para projetos interessantes e desafiadores.</p>
