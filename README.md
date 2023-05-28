@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Biografia de Yuri</title>
+ 
 </head>
 <body>
   <h1>Yuri</h1>
