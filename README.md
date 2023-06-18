@@ -17,4 +17,4 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br>
 
-Sou iniciante no mundo da tecnologia e sempre foi minha paixão e aprender a programar está sendo gratificante.
+Sou iniciante no mundo da tecnologia. Sempre foi minha paixão e aprender a programar está sendo gratificante.
